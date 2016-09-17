@@ -14,6 +14,6 @@ public class Example {
 		
 		sb.append(" on Android").append(" Developer Fundamentals");
 		
-		System.out.println(sb.toString());
+		System.out.println(sb.toString()); //toString() method is used to get the string form of the 'sb'
 	}
 }
