@@ -1,3 +1,0 @@
-###Link to Video on Developer Certification:
-
-https://www.youtube.com/watch?v=Yu2oGere_Mc
