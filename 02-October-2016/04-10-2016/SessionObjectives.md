@@ -1,6 +1,6 @@
 #Session Objectives
 
-Completion of 
+ 
 1. Task 3(Exploring the Project Structure)
 2. Task 6(Adding Log statements to the App)
 3. Task 7(Exploring the AndroidManifest.xml)
